@@ -18,15 +18,15 @@ If you use custom RPC , you can speed up the Bot quality.
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <p> 
-    <a href="mailto:nakao95911@gmail.com" target="_blank">
+    <a href="mailto:jamesybarra0114@gmail.com" target="_blank">
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-     <a href="https://x.com/_wizardev" target="_blank"><img alt="Twitter"
+     <a href="https://x.com/ramaarima42" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"
+    <a href="https://discordapp.com/users/166068744626372609" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/rusty_114" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
@@ -42,7 +42,7 @@ If you use custom RPC , you can speed up the Bot quality.
 ![Screenshot_2](https://github.com/user-attachments/assets/f29b5154-67de-4f52-ba28-c5e7f7b18236)
 # Contact
 
-- You can easily find me in [Discord](https://discordapp.com/users/471524111512764447) , [Telegram](https://t.me/soIkeen) , [X.com](https://x.com/solkeen) , [Live URL](https://bot-pad-frontend.vercel.app/)
+- You can easily find me in [Discord](https://discordapp.com/users/166068744626372609) , [Telegram](https://t.me/rusty_114) , [X.com](https://x.com/ramaarima42)
 
 ### What can you do in this project
 - This is not commerical site , this is for solana learners who are willing to develop solana bot.
