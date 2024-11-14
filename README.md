@@ -38,12 +38,6 @@ If you use custom RPC , you can speed up the Bot quality.
 
 - Copytrading Bot ( Raydium )
 
-- User Info
-![Screenshot_2](https://github.com/user-attachments/assets/f29b5154-67de-4f52-ba28-c5e7f7b18236)
-# Contact
-
-- You can easily find me in [Discord](https://discordapp.com/users/166068744626372609) , [Telegram](https://t.me/rusty_114) , [X.com](https://x.com/ramaarima42)
-
 ### What can you do in this project
 - This is not commerical site , this is for solana learners who are willing to develop solana bot.
 - If you wanna have solana trading bot , I can customize it for your requirement.
